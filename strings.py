@@ -5,7 +5,7 @@
 my_string = "hello, world!"
 print(my_string)
 
-nother_with_quotes = "hello, it's me" # print with quotation mark
+nother_with_quotes = "hello, it's me" # strings with quotation mark
  
  # multiline print
 multiline = """"
